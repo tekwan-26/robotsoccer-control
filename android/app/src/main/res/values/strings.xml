@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">robotsoccer-control</string>
+    <string name="title_activity_main">robotsoccer-control</string>
+    <string name="package_name">com.faizda.my.id.app</string>
+    <string name="custom_url_scheme">com.faizda.my.id.app</string>
+</resources>

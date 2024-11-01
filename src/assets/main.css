@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+body {
+    font-family: 'Sora', 'sans-serif';
+    @apply bg-gray-300 text-black
+}
+
