@@ -34,3 +34,4 @@ coverage
 
 # Ignore Gradle build output directory
 build
+android

@@ -11,10 +11,9 @@
     "move": "cp android/app/build/outputs/apk/debug/app-debug.apk /sdcard/Download"
   },
   "dependencies": {
-    "@capacitor/android": "^6.1.2",
-    "@capacitor/assets": "^3.0.5",
-    "@capacitor/cli": "^6.1.2",
-    "@capacitor/core": "^6.1.2",
+    "@capacitor/android": "6.1.2",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
     "@tabler/icons-vue": "^3.21.0",
     "autoprefixer": "^10.4.20",
     "cordova-plugin-bluetooth-serial": "^0.4.7",
@@ -26,6 +25,7 @@
     "vue-router": "^4.4.5"
   },
   "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
     "@vitejs/plugin-vue": "^5.1.4",
     "vite": "^5.4.10"
   }
